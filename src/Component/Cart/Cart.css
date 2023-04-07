@@ -1,0 +1,26 @@
+.cart-container{
+    position: sticky;
+    top: 0;
+}
+
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+.bold{
+    font-weight: bold;
+}
